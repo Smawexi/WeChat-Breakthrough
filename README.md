@@ -9,3 +9,10 @@
 1. 首先打开微信
 2. 然后打开wechat_breakthrough.exe运行
 3. 扫码登录即可
+
+---
+
+### 激活方法
+
+1. 点击运行get_secretkey.exe获取生成的密钥  
+2. 输入密钥即可
